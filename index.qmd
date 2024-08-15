@@ -1,0 +1,424 @@
+---
+title: "História Digital"
+subtitle: "uma prática acrítica?"
+author: Eric Brasil
+institute: "Instituto de Humanidades e Letras (UNILAB)"
+date: "15/08/2024"
+lang: pt-br
+format:
+  revealjs: 
+    theme: white
+    slide-number: true
+#    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    #logo: logo.png
+    logo: "imgs/logo.png"
+    #css: styles.css
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+## O que estou fazendo aqui?
+
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FuNmI4cWV4YmphdG10aW53bGhyNWFsM3Rhd3YwajN2NnRleW1kNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.webp)
+
+---
+
+## História Digital existe/existirá? {.center}
+
+
+- Uma volta aos números?
+- Um reforço do eurocentrismo?
+- Prática sem teoria?
+- Terá sentido em 10 anos (ou menos)?
+
+---
+
+## 1. Como tem início um projeto em história hoje? {.center}
+
+
+![](https://media3.giphy.com/media/f1UH5LwVuWucM/giphy.gif?cid=ecf05e47kx6wnnnf9m6wg9c8k4a1cpe9kprem9pun2rglbxu&rid=giphy.gif&ct=g)
+
+---
+
+## 1. Como é que tem início um projeto em história hoje? {.center}
+
+- Você já possui ou criou uma versão legível por computador dos seus dados?
+
+- Você já compreendeu "como suas fontes digitais foram criadas, e como ficaram disponíveis para você"? (BLANEY, et al. 2021. p. 44)
+
+---
+
+## 1.1. Como coletar e organizar esses dados? {.center}
+
+- CSV, JSON, XML, TEI, RDF, PDF, JPG?
+
+- API?
+
+- Metadados?
+
+- Documentação, princípios FAIR, Cadeia de custódia?
+
+---
+
+## 2. Desconhecimento técnico é um problema metodológico. {.center}
+
+
+![](https://i.giphy.com/media/Xch9I90tRezyicQgma/giphy.webp)
+
+---
+
+## 2.1. Rigor metodológico {.center}
+
+>"Os métodos de pesquisa digital criam demandas novas e às vezes mais rigorosas de precisão, pensamento metodológico, auto-organização e colaboração do que a pesquisa histórica tradicional" (FRIDLUND; OIVA; PAJU, 2020, pos. 543, Tradução minha).
+
+---
+
+## 2.2. Hermenêutica da Prática {.center}
+
+
+>uma teoria das práticas que nos permite refletir criticamente sobre os desafios teóricos e artesanais do nosso trabalho digital e conceber soluções práticas para enfrentá-los. (Lucchesi 2020, cap. 3, Tradução minha) 
+
+---
+
+## 2.3. Ferramentas e métodos digitais condicionam nossas perguntas às fontes? {.center}
+
+- Cada ferramenta ou método digital reúne um conjunto de decisões políticas que comumente escapam ao pesquisador.
+- O *black box* metodológico coloca em risco a própria possibilidade de avalisar, reproduzir e criticar os resultados obtidos.
+- Ou seja, impactam epistemologicamente nossas pesquisas.
+
+---
+
+## 2.4. E a Inteligência Artificial nesse processo? {.center}
+
+![](https://i.giphy.com/CdY6WueirK8Te.webp)
+
+---
+
+## 3. Três exemplos a partir do XII CBHE {.center}
+
+1. Digitalizar é rematerializar
+2. Rastreando temas através de múltiplos acervos
+3. Hemeroteca Digital Brasileira
+
+---
+
+## 3.1 Digitalizar é rematerializar {.center}
+
+- Todo documento digitalizado possui inúmeras camadas técnicas e acumulam escolhas políticas.
+- Toda digitalização rematerializa o objeto e coloca outras potencialidades e cuidados.
+
+::: notes
+- Quais motores de ocr são utilizados?
+- Foi treinado um modelo específico para a base?
+- Quais formatos de resultado são obtidos e disponibilizados?
+- Quais metadados estão associados?
+- Temos acesso às taxas de precisão/acurácia do OCR?
+:::
+
+---
+
+### 3.1.1. As rasuras políticas de Almerinda Farias Gama e Alba Zaluar {.center}
+
+<small>A partir da pesquisa de Carolina Alves (CPDOC-FGV)</small>
+
+::: columns
+::: {.column width="50%"}
+
+![](imgs/gama){fig-align="center"}
+
+::: 
+::: {.column width="50%"}
+
+![](imgs/zaluar){fig-align="center"}
+
+:::
+:::
+
+---
+
+### 3.1.1. As rasuras políticas de Almerinda Farias Gama e Alba Zaluar {.center}
+
+<small>A partir da pesquisa de Carolina Alves (CPDOC-FGV)</small>
+
+::: columns
+::: {.column width="30%"}
+
+![](imgs/gama){fig-align="center"}
+
+::: 
+::: {.column width="70%"}
+<div style="text-align: left;">
+Federação Trabalho. do Distrito Federal
+<BR>
+
+Certeira representetiv<strong>a</strong> da companheir<strong>a</strong>
+
+<BR>
+ALMERINDA FARIAS GAMA
+
+<BR>
+Detrgeta do SYNDICATO DOS DACTYLO-
+    GRAPHOS E TACHYGRAPHOS,
+
+</div>
+:::
+:::
+
+---
+
+### 3.1.1. As rasuras políticas de Almerinda Farias Gama e Alba Zaluar {.center}
+
+<small>A partir da pesquisa de Carolina Alves (CPDOC-FGV)</small>
+
+::: columns
+::: {.column width="40%"}
+
+![](imgs/zaluar){fig-align="center"}
+
+::: 
+::: {.column width="60%"}
+<div style="text-align: left;">
+  <small>
+19 June 1995
+<BR>
+
+Dr. Alba Zaluar
+<BR>
+Rua Sao Clemente, 398/108
+<BR>
+Rio de Janeiro 22 260-000
+<BR>
+Brazil
+<BR>
+
+AO
+<BR>
+Dear <strong>Dr Zaluar</strong>,
+<BR>
+Are you willing to review the following book:
+<BR>
+
+David J. Hess and Roberto A. DaMatta (eds.), [...]
+<BR>
+
+We would like to receive the review by 15/09/1995.
+<BR>
+
+It should not exceed 600 words.
+[...]
+<BR>
+
+</small>
+</div>
+:::
+:::
+
+---
+
+### 3.1.2. Pescando num aquário, quase perco um sujeito central na pesquisa {.center}
+
+::: columns
+::: {.column width="50%"}
+
+<img src="imgs/hdb1.jpg" style="width: auto; height: 500px;" />
+
+::: 
+::: {.column width="50%"}
+<img src="imgs/hdb2.jpg" style="width: auto; height: 500px;" />
+
+:::
+:::
+
+---
+
+## 3.2. Rastreando temas através de múltiplos acervos {.center}
+
+- Fonte histórica passa a existir a partir da pergunta e quando colocada em relação com outras fontes.
+- Nunca tivemos tanta oportunidade de cruzar fontes e acervos: Linked Open Data, adotar princípios FAIR, aplicar métodos de análise de redes, etc.
+
+---
+
+## 3.2.1 Um teste rápido: "História da Educação" {.center}
+
+- Como o tema aparece nos resumos da Anpuh?
+- Como o tema aparece na base de dados do Scielo?
+
+---
+
+## Base de resumos da ANPUH entre 2013 e 2023 {.center}
+
+- Total de resumos na base ANPUH: 16591
+- Total de ocorrências de 'história da educação': 236
+
+---
+
+### Contagem de ocorrências de "História da Educação" na base de resumos da Anpuh
+
+![](imgs/anpuh_ano.png)
+
+---
+
+### Proporção de Ocorrências de "História da Educação" nos resumos da Anpuh {.center}
+
+| Ano  | Porcentagem  |
+|------|:---------:|
+| 2013 | 0.78%     |
+| 2015 | 1.44%     |
+| 2017 | 1.43%     |
+| 2019 | 1.94%     |
+| 2021 | 1.87%     |
+| 2023 | 0.89%     |
+
+---
+
+### Bigrams dos resumos
+
+![](imgs/bigram_anpuh.png)
+
+---
+
+### Scielo
+
+![](imgs/scielo.png)
+
+---
+
+Todos essas bases estão disponíveis no Repositório Digital das Humanidades. [Clique aqui](https://labhdufba.github.io/redhbr/) para acessar o código de raspagem e as bases.
+
+![](https://labhdufba.github.io/redhbr/img/logo.jpg)
+
+---
+
+## 3.3 O que pesquiso quando pesquisa no HDB? {.center}
+
+- É possível através da interface?
+- As escolhas técnicas da interface afetam a compreensão dos dados?
+- API? 
+- Web scraping ou coleta manual?
+- Dados abertos?
+
+---
+
+## 3.3.1 Uma visão geral dos dados: o arquivo XML (MARCXML) {.center}
+
+- Título do periódico
+- Subtítulo do periódico
+- Local de publicação
+- Editora
+- Período de publicação
+- Periodicidade da publicação
+- Idioma da publicação
+
+---
+
+## {.center}
+
+| Coluna         |  Quantidade  |
+|--------------- | ------------ |
+| Título         | 7685         |
+| Subtítulo      | 3666         |
+| Local          | 7608         |
+| Período        | 7265         |
+| Editora        | 5675         |
+| Peridodicidade | 5901         |
+| Idioma         | 6614         |
+
+---
+
+## Escopo cronológico e temporal {.center}
+
+- 673 locais únicos
+- 7685 títulos
+- Publicações entre 1521 e 2022
+
+---
+
+### Viés cronológico? {.center}
+
+![Gráfico de dispersão com datas de início](imgs/plot2.png)
+
+---
+
+### Viés espacial? {.center}
+
+![Gráfico de barras com cidades mais frequentes](imgs/plot1.png)
+
+--- 
+
+## 4. E agora? {.center}
+
+- Para onde vai nossa profissão?
+
+---
+
+## 4.1. A IA generativa chegou! {.center}
+
+![](https://i.giphy.com/fn2sFqmwowbQY.webp)
+
+---
+
+## Uma conclusão? {.center}
+
+Concluindo a minha reflexão sobre as práticas da história digital, é evidente que, apesar das inovações e oportunidades trazidas por essas novas abordagens, há um risco significativo de que elas sejam utilizadas de maneira acrítica. A história digital não é apenas uma questão de novas ferramentas, mas sim de um novo paradigma que exige rigor metodológico, reflexão crítica e uma compreensão profunda dos processos técnicos envolvidos. A digitalização, por exemplo, não é neutra; ela rematerializa os objetos e coloca em jogo decisões políticas que precisam ser consideradas e avaliadas.
+
+---
+
+## {.center}
+
+Por outro lado, a possibilidade de cruzar dados de diferentes acervos nos oferece novas formas de entender e interrogar o passado, ampliando nosso campo de visão. Porém, isso só será verdadeiramente frutífero se tivermos consciência das limitações e vieses que as ferramentas digitais podem introduzir em nossas pesquisas.
+
+---
+
+## {.center}
+
+A inteligência artificial, ao entrar nesse cenário, acrescenta uma camada de complexidade que exige ainda mais cuidado e discernimento. Não podemos permitir que essas ferramentas se tornem caixas-pretas que obscurecem nossa compreensão dos dados. Pelo contrário, devemos utilizá-las para enriquecer e aprofundar nossas investigações, sempre com uma postura crítica e reflexiva.
+
+---
+
+## {.center}
+
+Como observado ao longo desta apresentação, essas questões são centrais para o futuro da história digital e precisam ser enfrentadas de frente. O que fizemos aqui foi apenas arranhar a superfície, mas é um convite para todos nós nos engajarmos mais profundamente com essas problemáticas.
+
+---
+
+## O texto dos últimos slides foi gerado pelo ChatGPT 4.0 {.center}
+
+Passei para ele a apresentação e o seguinte prompt:
+
+>Leia minha apresentação e escreva uma breve conclusão para eu incluir em minha fala.  Escreva como se fosse eu.
+
+---
+
+## 4.2. Vamos à conclusão real: Avançar no que o CBHE está propondo {.center}
+
+- Interdisciplinaridade
+- Colaboração
+- Transparência e Ciência Aberta
+- Dados abertos
+- Formação
+- Financiamento e políticas públicas
+
+---
+
+## Muito obrigado! {.center}
+
+---
+
+## Contatos pessoais {.center}
+
+- Email: [profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br)
+- GitHub: [ericbrasiln](https://github.com/ericbrasiln/)
+- X (saudoso Twitter): [ericbrasiln](http://www.twitter.com/ericbrasiln) 
+- [Orcid](https://orcid.org/0000-0001-5067-8475) - [Lattes](http://lattes.cnpq.br/6853705640900524)
+- [Site pessoal: ericbrasil.com.br](https://ericbrasil.com.br)
+
+---
+
+## Contatos {.center}
+
+- Curso de Licenciatura em História (IHL-UNILAB): [historia.ba@unilab.edu.br](mailto:historia.ba@unilab.edu.br)
+- Laboratório de Humanidades Digitais da UFBA: [labhdufba.com.br](https://labdufba.com.br)
+- [Mestrado Interdisciplinar em Humanidades Digitais - PPGIHD/UFRRJ](https://www.dcc.ufrrj.br/ppgihd/)
+- [Programming Historian em Português](https://programminghistorian.org/pt)
