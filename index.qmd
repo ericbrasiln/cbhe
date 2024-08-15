@@ -383,7 +383,7 @@ Como observado ao longo desta apresentação, essas questões são centrais para
 
 ---
 
-## O texto dos últimos slides foi gerado pelo ChatGPT 4.0 {.center}
+## O texto dos últimos slides foi gerado pelo ChatGPT 4o {.center}
 
 Passei para ele a apresentação e o seguinte prompt:
 
