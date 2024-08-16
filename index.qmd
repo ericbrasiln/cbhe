@@ -18,6 +18,11 @@ format:
     #css: styles.css
     footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
 ---
+## Acesse a apresentação a partir do qrcode: {.center}
+
+![](imgs/qrcode.png)
+
+---
 
 ## O que estou fazendo aqui?
 
@@ -291,7 +296,7 @@ Todos essas bases estão disponíveis no Repositório Digital das Humanidades. [
 
 ---
 
-## 3.3 O que pesquiso quando pesquisa no HDB? {.center}
+## 3.3 O que pesquiso quando pesquiso no HDB? {.center}
 
 - É possível através da interface?
 - As escolhas técnicas da interface afetam a compreensão dos dados?
@@ -324,6 +329,12 @@ Todos essas bases estão disponíveis no Repositório Digital das Humanidades. [
 | Editora        | 5675         |
 | Peridodicidade | 5901         |
 | Idioma         | 6614         |
+
+---
+
+## {.center}
+
+![Recorte do arquivo XML](imgs/xml_hdb.png)
 
 ---
 
