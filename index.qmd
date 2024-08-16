@@ -20,7 +20,7 @@ format:
 ---
 ## Acesse a apresentação a partir do qrcode: {.center}
 
-![](imgs/qrcode.png)
+![[https://ericbrasil.com.br/cbhe](https://ericbrasil.com.br/cbhe)](imgs/qrcode.png)
 
 ---
 
@@ -76,14 +76,14 @@ format:
 
 ## 2.1. Rigor metodológico {.center}
 
->"Os métodos de pesquisa digital criam demandas novas e às vezes mais rigorosas de precisão, pensamento metodológico, auto-organização e colaboração do que a pesquisa histórica tradicional" (FRIDLUND; OIVA; PAJU, 2020, pos. 543, Tradução minha).
+>"Os métodos de pesquisa digital criam demandas novas e às vezes mais rigorosas de precisão, pensamento metodológico, auto-organização e colaboração do que a pesquisa histórica tradicional" ([FRIDLUND; OIVA; PAJU, 2020, pos. 543, Tradução minha](https://hup.fi/site/books/e/10.33134/HUP-5/)).
 
 ---
 
 ## 2.2. Hermenêutica da Prática {.center}
 
 
->uma teoria das práticas que nos permite refletir criticamente sobre os desafios teóricos e artesanais do nosso trabalho digital e conceber soluções práticas para enfrentá-los. (Lucchesi 2020, cap. 3, Tradução minha) 
+>uma teoria das práticas que nos permite refletir criticamente sobre os desafios teóricos e artesanais do nosso trabalho digital e conceber soluções práticas para enfrentá-los. ([Lucchesi 2020, cap. 3, Tradução minha](https://pubmemo.uni.lu/projects/shaping-a-digital-memory-platform-on-migration-narratives)) 
 
 ---
 
@@ -394,11 +394,11 @@ Como observado ao longo desta apresentação, essas questões são centrais para
 
 ---
 
-## O texto dos últimos slides foi gerado pelo ChatGPT 4o {.center}
-
-Passei para ele a apresentação e o seguinte prompt:
+## A "conclusão" foi gerada pelo ChatGPT 4o {.center}
 
 >Leia minha apresentação e escreva uma breve conclusão para eu incluir em minha fala.  Escreva como se fosse eu.
+
+![](https://i.giphy.com/h66llALaCL5ew.webp)
 
 ---
 
